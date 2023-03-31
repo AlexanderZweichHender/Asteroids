@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Classes/TextClass.uss?fileID=7433441132597879392&amp;guid=146331cdc3efaaa4a8629640907aec41&amp;type=3#TextClass" />
+    <ui:VisualElement name="PauseUI" style="flex-grow: 1; justify-content: center; align-items: center;">
+        <ui:Label text="Paused" display-tooltip-when-elided="true" name="Title" class="TitleText" style="-unity-text-align: middle-center; font-size: 156px; translate: 0 -60px; -unity-background-image-tint-color: rgb(255, 255, 255); color: rgb(255, 255, 255);" />
+        <ui:VisualElement name="ButtonsPanel" style="width: 50%; height: 50%; background-color: rgba(77, 77, 77, 0.5); align-items: center; justify-content: center; border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px;">
+            <ui:Button text="Menu" display-tooltip-when-elided="true" name="GoToMenuButton" class="MenuButton" style="width: 50%;" />
+            <ui:Button text="Exit" display-tooltip-when-elided="true" name="ExitGameButton" class="MenuButton" style="width: 50%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

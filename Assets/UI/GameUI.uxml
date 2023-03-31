@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Classes/TextClass.uss?fileID=7433441132597879392&amp;guid=146331cdc3efaaa4a8629640907aec41&amp;type=3#TextClass" />
+    <ui:VisualElement name="BackGround" style="width: 100%; height: 100%; align-items: flex-start;">
+        <ui:Label text="SCORE: 0" display-tooltip-when-elided="true" name="ScoreCounter" class="Text" style="font-size: 56px; color: rgb(255, 255, 255);" />
+    </ui:VisualElement>
+</ui:UXML>
