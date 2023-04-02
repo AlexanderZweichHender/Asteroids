@@ -18,6 +18,7 @@ Destroy asteroids and get points
 
 ## Gallery
 <p align="center">
-      <img src="https://user-images.githubusercontent.com/93994885/229350729-0ad5c270-1e4e-40fa-9a0d-a1d72b1dd9be.png" alt="Main menu">
+      <img src="https://user-images.githubusercontent.com/93994885/229351111-3e872e4d-9b9e-473e-bbbf-12e58004bfbe.png" alt="Main menu">
       <img src="https://user-images.githubusercontent.com/93994885/229350679-13130826-c0eb-4051-bed4-3fab24352f30.png" alt="Project logo">
       <img src="https://user-images.githubusercontent.com/93994885/229350877-bc5bd16e-d3e8-4eee-8af8-9d647ecf3b2a.png" alt="Project logo">
+
